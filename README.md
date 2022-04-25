@@ -11,4 +11,4 @@
 * Hobbies- Traveling, Biking, Swimming, Skiing, Singing, Watching TV, Listening to Music, Playing Piano
 * General Skills- Detailed Oriented, Organized, Transparent, Honest, Dependable, Follow Instructions Well, Asking Questions, Detailed Oriented, Committed, Integrity, Organized, Flexible, Motivation, Teamwork with Collaboration, Dedicated, Hardworking
 
-* Here in my portfolio you will find a lot of my best work that I have done throughout my college career
+* Here in my portfolio you will find a lot of my best work that I have done throughout my college career along with also my Resume too
