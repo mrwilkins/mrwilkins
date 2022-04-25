@@ -2,7 +2,7 @@
 
 * Curry College Senior 2022 Graduate
 * Bachelor of Science in Information Technology
-* Technology Skills- Applications are MS Excel, Word, PowerPoint, MS Project, Open Source Project, Access, SQL, Python, Java, Eclipse, Adobe Illustrator, Adobe Photoshop, HTML 5, Scribbler S3 Robot and Software, Autopsy, WinHex, OSForensics and Visual Studio.  
+* Technology Skills- MS Excel, Word, PowerPoint, MS Project, Open Source Project, Access, SQL, Python, Java, Eclipse, Adobe Illustrator, Adobe Photoshop, HTML 5, Scribbler S3 Robot and Software, Autopsy, WinHex, OSForensics and Visual Studio.  
 * Coursework- Intro Information Technology, Foundations of Hardware, Database Concepts, HTML and Design, Intro Computer Science, Computer Forensics, Fundamentals of Programming, Project Management, Structured Programming, Networking, Object-Oriented Programming, Operating Systems and Information Technology Security
 * Deans List for Three Years in College for a Total of six Semesters
 * Clubs- Karaoke and Rowing
