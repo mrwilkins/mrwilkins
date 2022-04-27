@@ -1,2 +1,3 @@
 ### Matthew Wilkins 👋
-* Here you will find some of my best work throughout my college career 
+* Portfolio of some of my best work throughout my College career
+* Also includes Resume as well as Education, Skills, Hobbies, and Extracirricular  
